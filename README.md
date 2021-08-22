@@ -11,6 +11,7 @@ To make it works you have to install the mod and you need a economy plugin such 
 
 ### Preview
 ![Preview Image](https://i.imgur.com/RdUACLT.png)
+
 [Another Image](https://i.imgur.com/Ycu4U1A.png)
 
 ### Configuration
