@@ -1,0 +1,10 @@
+sessionTypes:
+  resources: "Resources"
+  animals: "Animals"
+  fishing: "Fising"
+  plants: "Plants"
+
+ui:
+  title: "<color=aqua>{SessionType}</color>"
+  reward: "<color=lightblue>Total Rewards: ${RewardSession.TotalSessionRewards}</color>"
+  rewardCount: "<color=lightblue>Rewards Count: {RewardSession.SessionRewardsCount}</color>"

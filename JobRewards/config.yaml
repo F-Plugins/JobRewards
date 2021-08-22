@@ -1,0 +1,9 @@
+uiSessionTime: 5 # This will define how much seconds will be the ui still visible after getting the reward
+
+rewards: # This is the money that the player will get
+  resources: 30
+  animals: 75
+  fishing: 100
+  plants: 50
+
+# Workshop mod id: https://steamcommunity.com/sharedfiles/filedetails/?id=2582085905
