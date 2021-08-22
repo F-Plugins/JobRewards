@@ -30,6 +30,6 @@ jobs:
     - name: Build
       run: dotnet build JobRewards/JobRewards.csproj --configuration Release --no-restore
     - name: Push to NuGet
-      run: dotnet nuget push JobRewards/JobRewards/bin/Release/*.nupkg
+      run: dotnet nuget push JobRewards/bin/Release/*.nupkg
              --api-key ${{ secrets.NUGET_DEPLOY_KEY }}
              --source https://api.nuget.org/v3/index.json
