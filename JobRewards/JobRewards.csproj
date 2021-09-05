@@ -13,7 +13,7 @@
     <PackageId>Feli.JobRewards</PackageId>
     <!-- must be unique, should be same as your plugin ID -->
     <PackageDescription>A plugin that allows your users to get paid for working</PackageDescription>
-    <PackageLicenseExpression>EUPL-1.2</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <!-- see https://spdx.org/licenses/ -->
     <PackageAuthor>Feli</PackageAuthor>
     <PackageTags>openmod openmod-plugin unturned</PackageTags>
